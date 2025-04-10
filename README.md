@@ -1,5 +1,10 @@
 # 🌐 Portfólio - Agostinho Alves
 
+![Preview do site](![image](https://github.com/user-attachments/assets/d9b96e06-d950-4bb7-9715-cba6209ce44a))
+
+Este é meu portfólio pessoal desenvolvido com **HTML**, **CSS** e **Bootstrap**. O site apresenta minhas principais habilidades, projetos desenvolvidos e formas de contato profissional.
+
+
 Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e trajetória na área de desenvolvimento web.
 
 ## 🧠 Sobre Mim
